@@ -1,0 +1,18 @@
+{
+    "shave": {
+        "Frequency": "C",
+        "interval": 4,
+        "Group": "Personal",
+        "Added On": "01.09.2025",
+        "completions": [],
+        "next reminder": "Fri- 05.09.2025"
+    },
+    "hair": {
+        "Frequency": "BW",
+        "interval": 14,
+        "Group": "Personal",
+        "Added On": "01.09.2025",
+        "completions": [],
+        "next reminder": "Mon- 15.09.2025"
+    }
+}
